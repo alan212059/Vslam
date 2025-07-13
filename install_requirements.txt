@@ -1,0 +1,1 @@
+pip install opencv-python numpy sympy tqdm matplotlib pytransform3d cycler
